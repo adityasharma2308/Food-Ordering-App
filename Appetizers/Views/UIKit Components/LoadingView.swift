@@ -2,7 +2,7 @@
 //  LoadingView.swift
 //  Appetizers
 //
-//  Created by Sean Allen on 11/13/20.
+//  Created by Aditya Sharma on 24/09/24.
 //
 
 import SwiftUI

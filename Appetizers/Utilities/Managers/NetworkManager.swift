@@ -2,7 +2,7 @@
 //  NetworkManager.swift
 //  Appetizers
 //
-//  Created by Sean Allen on 11/12/20.
+//  Created by Aditya Sharma on 24/09/24.
 //
 
 import UIKit
